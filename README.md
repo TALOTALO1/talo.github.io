@@ -13,7 +13,7 @@ This repository documents the development of **Walrus AI Engine**—a custom-bui
 ## Get Connected
 Follow the journey of building an AI core from scratch.
 
-🌐 **Project Site:** [talo.github.io](https://talo.github.io)
+🌐 **Project Site:** https://talotalo1.github.io/talo.github.io/
 
 ---
 *Building the future of digital intelligence.*
